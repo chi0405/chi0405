@@ -24,6 +24,7 @@
 
 Connect with me! Let's discuss data science, engineering, or anything exciting. 😄
 
-[LinkedIn](https://www.linkedin.com/in/chi-nguyen-36906618a/)https://www.linkedin.com/in/chi-nguyen-36906618a/)
-[Kaggle](https://www.kaggle.com/cicinguyen)https://www.kaggle.com/cicinguyen)
+[LinkedIn](https://www.linkedin.com/in/chi-nguyen-36906618a/)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue)](https://www.kaggle.com/cicinguyen)https://www.kaggle.com/cicinguyen)
 
