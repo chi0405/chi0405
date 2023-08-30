@@ -1,6 +1,6 @@
 # Hi there, I'm Chi Nguyen 👋
 
-![Anime GIF](https://animesher.com/orig/0/35/356/3564/animesher.com_reality-computer-girl-356435.gif)
+![Anime GIF]((https://tenor.com/vi/view/lost-and-found-anime-aesthetic-anime-aesthetic-gif-25028680))
 
 
 🌍 **Nationality**: Vietnamese 🇻🇳
