@@ -1,6 +1,6 @@
 # Hi there, I'm Chi Nguyen 👋
 
-![Anime GIF][(https://tenor.com/vi/view/lost-and-found-anime-aesthetic-anime-aesthetic-gif-25028680)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdmaW1vOTlqZ2pscDVnaTA1bHU5M2RvcjV2bmttN2RrMzBiYm5hOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/r2DUElTq9VYMfjxWNA/giphy.gif)
+![Anime GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdmaW1vOTlqZ2pscDVnaTA1bHU5M2RvcjV2bmttN2RrMzBiYm5hOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/r2DUElTq9VYMfjxWNA/giphy.gif)
 
 
 🌍 **Nationality**: Vietnamese 🇻🇳
