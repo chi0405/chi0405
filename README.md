@@ -1,6 +1,6 @@
 # Hi there, I'm Chi Nguyen 👋
 
-![Cozy Coffee]([https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif](https://images.app.goo.gl/bKG8QsUrSJFUcSnu8))
+![Cozy Coffee]([https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif](https://images.app.goo.gl/bKG8QsUrSJFUcSnu8)](https://animesher.com/orig/0/35/356/3564/animesher.com_reality-computer-girl-356435.gif))
 
 🌍 **Nationality**: Vietnamese 🇻🇳
 
@@ -23,4 +23,4 @@
 
 Connect with me! Let's discuss data science, engineering, or anything exciting. 😄
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)](https://www.linkedin.com/in/chi-nguyen-36906618a/)https://www.linkedin.com/in/chi-nguyen-36906618a/
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/chi-nguyen-36906618a/)https://www.linkedin.com/in/chi-nguyen-36906618a/)]
