@@ -1,6 +1,6 @@
 # Hi there, I'm Chi Nguyen 👋
 
-![Cozy Coffee](https://animesher.com/orig/0/35/356/3564/animesher.com_reality-computer-girl-356435.gif))
+![Cozy Coffee](https://animesher.com/orig/0/35/356/3564/animesher.com_reality-computer-girl-356435.gif)
 
 🌍 **Nationality**: Vietnamese 🇻🇳
 
