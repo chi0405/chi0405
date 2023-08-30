@@ -1,6 +1,6 @@
 # Hi there, I'm Chi Nguyen 👋
 
-![Cozy Coffee](https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif)
+![Cozy Coffee]([https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif](https://images.app.goo.gl/bKG8QsUrSJFUcSnu8))
 
 🌍 **Nationality**: Vietnamese 🇻🇳
 
@@ -16,18 +16,8 @@
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 
-📈 **GitHub Stats**:
-![Chi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chi0405&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chi0405&layout=compact&theme=radical)
-
-🏆 **Contributions**:
-- I'm passionate about contributing to open-source projects that align with my interests in data science and engineering.
-
 🔥 **GitHub Streaks**:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chi0405)](https://git.io/streak-stats)
-
-🚀 **Current Streak**: N days
-🔥 **Longest Streak**: M days
 
 
 Connect with me! Let's discuss data science, engineering, or anything exciting. 😄
