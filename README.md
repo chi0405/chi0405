@@ -19,7 +19,7 @@
 
 🔥 **GitHub Streaks**:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chi0405)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chi0405&theme=calm)](https://git.io/streak-stats)
 
 
 Connect with me! Let's discuss data science, engineering, or anything exciting. 😄
