@@ -11,11 +11,13 @@
 
 📊 **Skills**:
 - Data Analysis and Visualization
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
 - Machine Learning
 - Statistical Analysis
 - Python Programming
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
+
+
 
 🔥 **GitHub Streaks**:
 
